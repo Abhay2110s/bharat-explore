@@ -1,0 +1,45 @@
+{
+  "categories": [
+    { "id": "states", "name": "Indian States" },
+    { "id": "heritage", "name": "Heritage Sites" },
+    { "id": "culture", "name": "Culture & Festivals" },
+    { "id": "geography", "name": "Geography" }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "category": "states",
+      "question": "Which state is known as the 'Land of Five Rivers'?",
+      "options": ["Haryana", "Punjab", "Rajasthan", "Uttar Pradesh"],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "category": "heritage",
+      "question": "The Taj Mahal is located in which city?",
+      "options": ["Delhi", "Agra", "Jaipur", "Lucknow"],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "category": "culture",
+      "question": "Which festival is celebrated as the 'Festival of Lights'?",
+      "options": ["Holi", "Diwali", "Eid", "Christmas"],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "category": "geography",
+      "question": "Which is the largest state in India by area?",
+      "options": ["Madhya Pradesh", "Maharashtra", "Rajasthan", "Gujarat"],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "category": "states",
+      "question": "Kochi is a major city in which state?",
+      "options": ["Tamil Nadu", "Karnataka", "Kerala", "Andhra Pradesh"],
+      "answer": 2
+    }
+  ]
+}

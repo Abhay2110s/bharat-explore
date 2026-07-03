@@ -1,0 +1,11 @@
+:root {
+  --color-navy: #0f172a;
+  --color-white: #ffffff;
+  --color-saffron: #ff9933;
+  --color-green: #138808;
+  --color-sand: #fef3c7;
+  --color-slate: #64748b;
+  --font-heading: 'Fraunces', serif;
+  --font-body: 'Work Sans', sans-serif;
+  --radius: 0.75rem;
+}
